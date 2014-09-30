@@ -3,15 +3,23 @@ What happens when you initialize a repository? Why do you need to do it?
 	This tells Git to start monitoring the changes in that directory,
 	otherwise it wouldn't know you wanted it to do anything.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
 
 	The staging area is a temporary holding area meant to keep your changes
 	only until you decide to commit them. It allows you to make multiple
 	changes and withdraw them too until you are satisfied with your next
 	commit.
 
-How can you use the staging area to make sure you have one commit per logical change?
+How can you use the staging area to make sure you have one commit per logical
+change?
 
 	You can use the staging area and git diff to check what changes you have
 	made to decide whether to commit or not.
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	Branches would help by allowing an experimental change to be made without
+	breaking the master copy. They could also help for multiple versions of
+	the same code, such as different languages.
