@@ -23,3 +23,7 @@ organized? How would branches help?
 	Branches would help by allowing an experimental change to be made without
 	breaking the master copy. They could also help for multiple versions of
 	the same code, such as different languages.
+
+How do the diagrams help you visualize the branch structure?
+
+	The diagrams help to show the layout of the branches and their history.
