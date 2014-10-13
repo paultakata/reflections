@@ -27,3 +27,10 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 	The diagrams help to show the layout of the branches and their history.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	Merging two branches keeps the changes introduced in both branches. It is
+	represented this way to show that both branches are parents of the new
+	merged branch.
