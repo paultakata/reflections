@@ -34,3 +34,11 @@ the diagram the way we do?
 	Merging two branches keeps the changes introduced in both branches. It is
 	represented this way to show that both branches are parents of the new
 	merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	The automatic merging takes some of the drudge work out of merging obvious
+	differences between files, it only asks for help when there are changes it
+	can't understand. Manual merging would be unnecessarily tedious if needed
+	all the time.
