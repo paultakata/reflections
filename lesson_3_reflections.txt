@@ -12,3 +12,11 @@ automatically stay up-to-date with your remote repository?
 	changes manual would simplify things as you wouldn't constantly be trying
 	to follow other people's changes. It also allows you to work on something
 	that isn't ready yet without upsetting other people's work.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+	A clone is a copy of a repository either on your local machine, or to/from
+	GitHub. A fork is a copy of a repository on GitHub only. A branch is a
+	separate set of commits other than the master, which would be used when you
+	wanted to keep experimental changes separate from the main branch.
