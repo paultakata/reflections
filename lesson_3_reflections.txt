@@ -20,3 +20,9 @@ use one instead of another?
 	GitHub. A fork is a copy of a repository on GitHub only. A branch is a
 	separate set of commits other than the master, which would be used when you
 	wanted to keep experimental changes separate from the main branch.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+	It lets you continue working on something knowing that you are doing so on
+	the latest version. Also it should make it easier to merge in the future.
