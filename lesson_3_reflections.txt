@@ -26,3 +26,11 @@ stored locally?
 
 	It lets you continue working on something knowing that you are doing so on
 	the latest version. Also it should make it easier to merge in the future.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+	I would probably try to collaborate using email or some instant messaging
+	program. This would make it easier to keep up to date on what others were
+	doing but much harder to see the history of changes people have made.
+	
