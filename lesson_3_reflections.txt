@@ -33,4 +33,12 @@ and what would be harder?
 	I would probably try to collaborate using email or some instant messaging
 	program. This would make it easier to keep up to date on what others were
 	doing but much harder to see the history of changes people have made.
-	
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+	If you were making changes that were experimental or in addition to the
+	main program you could do them in a separate branch until they worked well.
+	Then the complete change could be merged later with the master branch. This
+	is better in terms of making changes that you know won't break the main
+	program, but adds the complexity of merging later.
